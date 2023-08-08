@@ -80,43 +80,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Cordial 98"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "A website of friends from Cordial High School, Bengaluru"
+  location         : "Bengaluru, Karnataka, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
+  email            : cordial98legends@gmail.com
   facebook         :
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
+  github           : "cordial98"
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
-  wikipedia        :
-
-
+  
 # Reading Files
 include:
   - .htaccess
